@@ -413,12 +413,12 @@ define('lab.version',['require'],function (require) {
     "repo": {
       "branch": "master",
       "commit": {
-        "sha":           "cc95c878812663d2189406e88e5a27bc7506ed44",
-        "short_sha":      "cc95c878",
-        "url":            "https://github.com/concord-consortium/lab/commit/cc95c878",
+        "sha":           "c0a287b38fbda8b211d7f5065b99f652155645ea",
+        "short_sha":      "c0a287b3",
+        "url":            "https://github.com/concord-consortium/lab/commit/c0a287b3",
         "author":        "Scott Cytacki",
         "email":         "scytacki@concord.org",
-        "date":          "2013-11-08 16:29:39 -0500",
+        "date":          "2013-11-08 16:43:01 -0500",
         "short_message": "fix issues with shutterbug building",
         "message":       "fix issues with shutterbug building\n\n[#59909576]"
       },
