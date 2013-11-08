@@ -413,14 +413,14 @@ define('lab.version',['require'],function (require) {
     "repo": {
       "branch": "master",
       "commit": {
-        "sha":           "255ce2c4b23745e5b833bad322d3cb289f0a206c",
-        "short_sha":      "255ce2c4",
-        "url":            "https://github.com/concord-consortium/lab/commit/255ce2c4",
+        "sha":           "cc95c878812663d2189406e88e5a27bc7506ed44",
+        "short_sha":      "cc95c878",
+        "url":            "https://github.com/concord-consortium/lab/commit/cc95c878",
         "author":        "Scott Cytacki",
         "email":         "scytacki@concord.org",
-        "date":          "2013-11-08 15:11:09 -0500",
-        "short_message": "Always include shutterbug even in static build",
-        "message":       "Always include shutterbug even in static build\n\nthese changes make shutterbug available even in the static\ndistribution case. Currently shutterbug will not be\nable to save an image because it won&#39;t have a valid server\nto connect to. But if the static page is embedded in an iframe\ninside of another page. Then the outer page can use its\nshutterbug to take a picture of the frame.\n[#59909576]"
+        "date":          "2013-11-08 16:29:39 -0500",
+        "short_message": "fix issues with shutterbug building",
+        "message":       "fix issues with shutterbug building\n\n[#59909576]"
       },
       "dirty": false
     }
